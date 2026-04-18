@@ -1,4 +1,4 @@
-# 🧠 Sentiment Analysis Pipeline — DistilBERT + FastAPI
+#  Sentiment Analysis Pipeline , DistilBERT + FastAPI
 
 **Custom-trained DistilBERT model • Evaluation & Error Analysis • FastAPI • Docker • Render Deployment**
 
@@ -26,7 +26,7 @@ Evaluated on 1,000 random samples from the IMDB test set.
 | Negative | 0.8596    | 0.8848 | 0.8720   | 512     |
 | Positive | 0.8753    | 0.8484 | 0.8616   | 488     |
 
-The model shows slight negative-class bias — it catches negative reviews more reliably (recall 0.88) than positive ones (recall 0.85).
+The model shows slight negative-class bias, it catches negative reviews more reliably (recall 0.88) than positive ones (recall 0.85).
 
 ---
 
